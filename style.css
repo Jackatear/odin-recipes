@@ -1,0 +1,33 @@
+* {
+    background-color: bisque;
+    color:rgb(47, 41, 36);
+    font-family: monospace;
+    text-align: center;
+}
+
+ul, ol {
+    margin-right: auto;
+    margin-left: auto;
+    list-style: none;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+.recipe { 
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.porridge {
+    color: brown;
+    text-align: center;
+}
+
+.omelette {
+    color: blueviolet;
+    text-align: center;
+}
